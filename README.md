@@ -15,7 +15,7 @@ A modular test automation framework built with **Python**, **Selenium WebDriver*
 
 ```text
 ├── tests/
-│   ├── test_ticket.py          # Main E2E workflow
+│   ├── test_ticket.py          # Main workflow
 ├── reports/                    # HTML reports and screenshot artifacts
 ├── utils/                      # Helper modules
 ├── requirements.txt            # Project dependencies
